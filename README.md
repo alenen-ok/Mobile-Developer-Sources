@@ -67,7 +67,10 @@ https://medium.com/flutter/adding-flutter-to-your-existing-ios-and-android-codeb
 https://tonyowen.medium.com/flutter-bottom-tab-bar-animation-75d1ca58c096 - Bottom bar animation \
 https://medium.com/flutter-community/flutter-layout-cheat-sheet-5363348d037e - Layout \
 https://www.raywenderlich.com/19539821-slivers-in-flutter-getting-started - Slivers \
-https://flutter.dev/docs/development/ui/animations/hero-animations - Animation
+https://flutter.dev/docs/development/ui/animations/hero-animations - Animation \
+https://ichi.pro/ru/kak-ispol-zovat-graphql-vo-flutter-138456060285215 - GraphQL \
+https://stackoverflow.com/questions/65841017/convert-image-to-icondata-flutter - CustomIcons \
+https://hackernoon.com/flutter-redux-how-to-make-shopping-list-app-1cd315e79b65 - Redux
 
 ### Architecture
 https://flutter.dev/docs/development/data-and-backend/state-mgmt/options#mobx - Official guideline \
